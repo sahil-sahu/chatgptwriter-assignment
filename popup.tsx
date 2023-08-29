@@ -25,18 +25,22 @@ function IndexPopup() {
       setLoading("LOADED")
     } catch (error) {
       console.error("No network")
+      setLoading("ERROR")
     }
 
   }
 
   return (
-    <section className="w-500 h-500 bg-sea-green">
-      <div className="text-white mx-auto text-center p-4 text-2xl">
+    <section className="w-500 h-500">
+      <div className="mx-auto text-center p-4 text-2xl">
         {
         (loading == "LOADED") && `Your country is ${location.current.country} and city is ${location.current.city}`
         }
+        {
+          (loading == "ERROR") && <span className="text-red-500">Please try Again!</span>
+        }
       </div>
-      <button onClick={handleClick} className="bg-gray-400 text-black py-2 px-4 font-bold">
+      <button onClick={handleClick} className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
         {
           loading != "LOADING"? "Show my Location":"Loading..."
         }
