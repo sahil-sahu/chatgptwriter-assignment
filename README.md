@@ -1,3 +1,6 @@
+[![Watch the Video](https://img.youtube.com/vi/UCjQ6wCoJglytDbJyF3OkmjQ/0.jpg)](https://www.youtube.com/watch?v=UCjQ6wCoJglytDbJyF3OkmjQ)
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
