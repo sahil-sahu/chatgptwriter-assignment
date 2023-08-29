@@ -1,4 +1,4 @@
-[![Watch the Video](https://img.youtube.com/vi/Cn8_M_tepKM/0.jpg)](https://www.youtube.com/watch?v=Cn8_M_tepKM)
+https://github.com/sahil-sahu/chatgptwriter-assignment/assets/65727965/dc16c083-45e8-42f9-9297-177ecd0c5d8d
 
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
