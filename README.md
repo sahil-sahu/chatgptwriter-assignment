@@ -1,4 +1,5 @@
-https://github.com/sahil-sahu/chatgptwriter-assignment/assets/65727965/dc16c083-45e8-42f9-9297-177ecd0c5d8d
+https://github.com/sahil-sahu/chatgptwriter-assignment/assets/65727965/c5b7f3f7-73c1-452a-b5c3-3442c4640fed
+
 
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
